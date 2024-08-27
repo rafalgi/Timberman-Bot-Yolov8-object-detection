@@ -1,0 +1,9 @@
+mss
+opencv-python
+numpy
+pyautogui
+ultralytics
+uuid
+keyboard
+matplotlib
+torch
