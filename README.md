@@ -1,4 +1,6 @@
 ﻿# Timberman-Bot
+ 
+![left](https://github.com/user-attachments/assets/ceeaa765-1a42-448f-996c-b91806417aa6)
 
 # Screen Capture and Object Detection with Automated Controls
 
